@@ -1,15 +1,15 @@
 # Cyber Writeup site settings
 # Edit these three lines, then click "Commit changes".
-title: "My Cyber Writeup"
-description: "A beginner-friendly explainer on a cybersecurity topic."
-author: "Your Name"
+title: "A Cyber Writeup By CX"
+description: "A explainer on a Passwords + MFA."
+author: "CX"
 
 # PICK YOUR LOOK: keep exactly ONE of these four lines without a # in front.
 # To switch, put a # in front of the current one and remove the # from the new one.
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-cayman
-# theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 
 # This must match your repository name, with a slash in front.
 # Your repo should be named cyber-research. If you named it something else,
